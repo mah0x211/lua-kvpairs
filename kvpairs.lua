@@ -62,7 +62,7 @@ local KVPairs = {}
 
 --- init
 --- @param vals table|nil
---- @return values
+--- @return kvpairs
 function KVPairs:init(vals)
     local dict = {}
 
